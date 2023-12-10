@@ -7,3 +7,7 @@ A good example of needing to account for all possible input possibilities. Had s
 ## Day 2
 
 Much easier than day 1.
+
+## Day 3
+
+Not quite there on part 2, going to move to day 4
